@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://z-haocong.github.io</id>
     <title>zhcong</title>
-    <updated>2019-06-11T16:06:17.854Z</updated>
+    <updated>2019-06-11T16:06:43.217Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://z-haocong.github.io"/>
     <link rel="self" href="https://z-haocong.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://z-haocong.github.io/images/avatar.png</logo>
     <icon>https://z-haocong.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, zhcong</rights>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://z-haocong.github.io/post/about</id>
+        <link href="https://z-haocong.github.io/post/about">
+        </link>
+        <updated>2019-06-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>如果你喜欢音乐、电影，不妨与我联系，欢迎来交朋友，个人邮箱：z.hc@outlook.com</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://z-haocong.github.io/post/hello-gridea</id>
