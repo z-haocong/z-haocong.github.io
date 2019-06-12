@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://z-haocong.github.io</id>
     <title>zhcong</title>
-    <updated>2019-06-12T01:50:50.857Z</updated>
+    <updated>2019-06-12T02:03:13.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://z-haocong.github.io"/>
     <link rel="self" href="https://z-haocong.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>任何值得去的地方都没有捷径</subtitle>
     <logo>https://z-haocong.github.io/images/avatar.png</logo>
     <icon>https://z-haocong.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, zhcong</rights>
