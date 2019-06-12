@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhcong.pro</id>
     <title>zhcong</title>
-    <updated>2019-06-12T07:38:53.959Z</updated>
+    <updated>2019-06-12T07:40:31.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhcong.pro"/>
     <link rel="self" href="https://zhcong.pro/atom.xml"/>
@@ -10,33 +10,6 @@
     <logo>https://zhcong.pro/images/avatar.png</logo>
     <icon>https://zhcong.pro/favicon.ico</icon>
     <rights>All rights reserved 2019, zhcong</rights>
-    <entry>
-        <title type="html"><![CDATA[写博客的计划和目的]]></title>
-        <id>https://zhcong.pro/post/xie-bo-wen-ji-hua</id>
-        <link href="https://zhcong.pro/post/xie-bo-wen-ji-hua">
-        </link>
-        <updated>2019-06-12T06:53:45.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="计划">计划</h2>
-<ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2306990"><label class="task-list-item-label" for="task-item-2306990"> 一周写一篇博客，博客的内容包括电影、论文阅读、工具、技术性细节、锻炼以及计划</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6698538"><label class="task-list-item-label" for="task-item-6698538"> 一月写一篇工作报告，在月初开始写</label></li>
-</ul>
-<h2 id="目的">目的</h2>
-<ol>
-<li>为了更好地提升自己</li>
-<li>有的放矢，学会表达</li>
-</ol>
-<h2 id="博客内容">博客内容</h2>
-<ul>
-<li>电影：感想，标题随意？</li>
-<li>工具：写最近接触的对于自己有用的工具</li>
-<li>技术性细节：遇到了什么Bug，要怎么解决，标题：《<a href="http://link.zhihu.com/?target=https%3A//www.phodal.com/blog/python-pip-openssl-issue/">Python 解决 InsecurePlatformWarning: A true SSLContext object is not available</a>》</li>
-<li>锻炼：写给自己看</li>
-<li>论文阅读，《我读FaceNet》、《MTCNN笔记》，总结论文优点、缺点、方法。</li>
-<li>计划，怎么写给自己看</li>
-</ul>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[试着发表第一篇博文]]></title>
         <id>https://zhcong.pro/post/first-blog</id>
